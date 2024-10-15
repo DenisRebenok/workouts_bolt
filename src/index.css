@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color: #3b82f6;
+  --secondary-color: #10b981;
+  --background-color: #f3f4f6;
+  --text-color: #1f2937;
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+.btn {
+  @apply px-4 py-2 rounded;
+  background-color: var(--primary-color);
+  color: white;
+}
+
+.btn:hover {
+  @apply opacity-80;
+}
+
+.input {
+  @apply border rounded p-2;
+  border-color: var(--primary-color);
+}
+
+.card {
+  @apply bg-white rounded-lg shadow-md p-6;
+}
+
+.table {
+  @apply w-full border-collapse;
+}
+
+.table th, .table td {
+  @apply border p-2;
+  border-color: var(--primary-color);
+}
+
+.table th {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+.table tr:nth-child(even) {
+  background-color: var(--background-color);
+}
+
+.chart-container {
+  @apply bg-white rounded-lg shadow-md p-4;
+}

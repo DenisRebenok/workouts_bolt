@@ -1,0 +1,96 @@
+{
+  "Exercises": [
+    {
+      "name": "Push Up (Weighted)",
+      "muscles": [
+        { "name": "Pecs", "fraction": 0.7 },
+        { "name": "Front Delts", "fraction": 0.3 },
+        { "name": "Triceps", "fraction": 0.5 }
+      ]
+    },
+    {
+      "name": "Chin Up (Weighted)",
+      "muscles": [
+        { "name": "Back", "fraction": 0.8 },
+        { "name": "Biceps", "fraction": 0.5 }
+      ]
+    },
+    {
+      "name": "Single Arm Tricep Extension (Dumbbell)",
+      "muscles": [{ "name": "Triceps", "fraction": 1.0 }]
+    },
+    {
+      "name": "Triceps Dip (Weighted)",
+      "muscles": [
+        { "name": "Triceps", "fraction": 0.8 },
+        { "name": "Front Delts", "fraction": 0.3 },
+        { "name": "Pecs", "fraction": 0.4 }
+      ]
+    },
+    {
+      "name": "Bicep Curl (Dumbbell)",
+      "muscles": [{ "name": "Biceps", "fraction": 1.0 }]
+    },
+    {
+      "name": "Bulgarian Split Squat",
+      "muscles": [
+        { "name": "Quadriceps", "fraction": 0.7 },
+        { "name": "Glutes", "fraction": 0.6 },
+        { "name": "Hamstrings", "fraction": 0.4 }
+      ]
+    },
+    {
+      "name": "Good Morning (Barbell)",
+      "muscles": [
+        { "name": "Lower Back", "fraction": 0.7 },
+        { "name": "Glutes", "fraction": 0.8 },
+        { "name": "Hamstrings", "fraction": 1.0 }
+      ]
+    },
+    {
+      "name": "Seated Good Morning",
+      "muscles": [
+        { "name": "Lower Back", "fraction": 0.8 },
+        { "name": "Glutes", "fraction": 0.6 }
+      ]
+    },
+    {
+      "name": "Lateral Raise (Dumbbell)",
+      "muscles": [{ "name": "Side Delts", "fraction": 1.0 }]
+    },
+    {
+      "name": "Dumbbell Row",
+      "muscles": [
+        { "name": "Back", "fraction": 1.0 },
+        { "name": "Biceps", "fraction": 0.3 }
+      ]
+    },
+    {
+      "name": "Lying Leg Raise",
+      "muscles": [{ "name": "ABS", "fraction": 1.0 }]
+    },
+    {
+      "name": "Bicycle Crunch",
+      "muscles": [{ "name": "ABS", "fraction": 1.0 }]
+    },
+    {
+      "name": "Plank",
+      "muscles": [
+        { "name": "ABS", "fraction": 1.0 },
+        { "name": "Lower Back", "fraction": 0.3 }
+      ]
+    },
+    {
+      "name": "Hanging Leg Raise",
+      "muscles": [{ "name": "ABS", "fraction": 1.0 }]
+    },
+    {
+      "name": "Decline Crunch",
+      "muscles": [{ "name": "ABS", "fraction": 1.0 }]
+    },
+    {
+      "name": "Standing Calf Raise (Barbell)",
+      "muscles": [{ "name": "Calves", "fraction": 1.0 }]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "Muscle Groups": [
+    {
+      "Exercises": [
+        "Push Up (Weighted)"
+      ],
+      "Groups": [
+        "Pecs"
+      ]
+    },
+    {
+      "Exercises": [
+        "Chin Up (Weighted)"
+      ],
+      "Groups": [
+        "Back"
+      ]
+    },
+    {
+      "Exercises": [
+        "Single Arm Tricep Extension (Dumbbell)"
+      ],
+      "Groups": [
+        "Triceps"
+      ]
+    },
+    {
+      "Exercises": [
+        "Triceps Dip (Weighted)"
+      ],
+      "Groups": [
+        "Front Delts",
+        "Triceps"
+      ]
+    },
+    {
+      "Exercises": [
+        "Bicep Curl (Dumbbell)"
+      ],
+      "Groups": [
+        "Biceps"
+      ]
+    },
+    {
+      "Exercises": [
+        "Bulgarian Split Squat"
+      ],
+      "Groups": [
+        "Quadriceps",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "Exercises": [
+        "Good Morning (Barbell)"
+      ],
+      "Groups": [
+        "Lower Back",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    {
+      "Exercises": [
+        "Seated Good Morning"
+      ],
+      "Groups": [
+        "Lower Back",
+        "Glutes"
+      ]
+    },
+    {
+      "Exercises": [
+        "Lateral Raise (Dumbbell)"
+      ],
+      "Groups": [
+        "Side Delts"
+      ]
+    },
+    {
+      "Exercises": [
+        "Dumbbell Row"
+      ],
+      "Groups": [
+        "Back"
+      ]
+    },
+    {
+      "Exercises": [
+        "Lying Leg Raise"
+      ],
+      "Groups": [
+        "ABS"
+      ]
+    },
+    {
+      "Exercises": [
+        "Bicycle Crunch"
+      ],
+      "Groups": [
+        "ABS"
+      ]
+    },
+    {
+      "Exercises": [
+        "Plank"
+      ],
+      "Groups": [
+        "ABS"
+      ]
+    },
+    {
+      "Exercises": [
+        "Hanging Leg Raise"
+      ],
+      "Groups": [
+        "ABS"
+      ]
+    },
+    {
+      "Exercises": [
+        "Decline Crunch"
+      ],
+      "Groups": [
+        "ABS"
+      ]
+    },
+    {
+      "Exercises": [
+        "Standing Calf Raise (Barbell)"
+      ],
+      "Groups": [
+        "Calves"
+      ]
+    }
+  ]
+}
